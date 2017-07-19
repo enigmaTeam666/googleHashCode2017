@@ -53,10 +53,8 @@ for ele in quesorted:
 					break 
 					
 print(len(result.keys()))
-# for index, item in enumerate(result):
-	# print("{0}, {1}".format(item, result[index["videos"]]))
-	# print(result[item])
 
+# print results
 for elm in result:
 	line = str(elm) 
 	
